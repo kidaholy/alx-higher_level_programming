@@ -1,1 +1,1 @@
-Python Hellow world and bye bye C
+Python Hello world and C interview prep
