@@ -1,1 +1,1 @@
-Loops if statements and functions
+Python if statements and loops
